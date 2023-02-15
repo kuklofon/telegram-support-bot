@@ -134,3 +134,7 @@ dmypy.json
 *.ipr
 *.iws
 *.sublime-workspace
+
+# Python virtual environments
+venv/
+ENV/
